@@ -1,4 +1,4 @@
 - 👋 Hi, I’m @shaunschwegler
 - 👀 I’m interested in WebGL modelling technologies
 - 🌱 I’m currently learning Three.js
-- 📫 How to reach me: shaunschwegler@btinternet.com
+- 📫 [Reach out to me on Twitter](https://www.twitter.com/shaunschwegler "@shaunschwegler")
