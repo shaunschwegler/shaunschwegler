@@ -7,5 +7,4 @@
 
 # Socials
 
-[LinkedIn](https://www.linkedin.com/in/shaunschwegler/ "in/shaunschwegler") //
-[Twitter](https://www.twitter.com/shaunschwegler "@shaunschwegler")
+[LinkedIn](https://www.linkedin.com/in/shaunschwegler/ "in/shaunschwegler")
