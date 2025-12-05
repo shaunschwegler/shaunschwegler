@@ -1,7 +1,7 @@
 # About
 
 - i’m [Shaun](https://www.github.com/shaunschwegler "GitHub Profile"), MD at [Kingston Signs](https://www.kingston-signs.co.uk "Engineering Signmakers")
-- check my [resume](https://shaunschwegler.github.io/ "Take a look!").
+- check my [resume](https://shaunschwegler.github.io/ "Take a look!")
 
 # Socials
 
